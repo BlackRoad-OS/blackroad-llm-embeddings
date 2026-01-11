@@ -1,26 +1,14 @@
-# 🖤🛣️ BlackRoad Llm Embeddings
+# BlackRoad LLM Embeddings
 
-**Wave 7** | Part of the BlackRoad Product Empire - 400+ enterprise solutions
+High-performance embedding service for semantic search and RAG.
 
-## 🚀 Quick Start
+## Features
+- **Multi-Model** - OpenAI, Cohere, local models
+- **Vector Store** - Built-in vector database
+- **Batch Processing** - Efficient bulk embedding
+- **Caching** - Smart embedding cache
+- **Clustering** - Semantic document grouping
+- **Self-Hosted** - Run locally for privacy
 
-```bash
-./blackroad-llm-embeddings.sh
-```
-
-## 🎨 BlackRoad Design System
-
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
-
-## 📚 Documentation
-
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of **400+ products** across **52 categories**. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude | Wave 7
+## License
+Copyright (c) 2026 BlackRoad OS, Inc. Proprietary software.
